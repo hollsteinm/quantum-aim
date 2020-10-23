@@ -43,7 +43,7 @@ namespace MicrosoftQSharp {
             
             //There is no easy ascii console circuit printer, so we won't do that in this sample
             
-            // Now measure (collapse the waveform and read the result)
+            // Now measure (read the result)
             // Again, this is different from Qiskit and AWS Braket because
             // we are not making a service call to a service exposing a 
             // quantum computer and awaiting a reply, we are measuring immediately
